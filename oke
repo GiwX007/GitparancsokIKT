@@ -1,1 +1,7 @@
 GIT PARANCSOK 
+
+git commit -m "Üzenet"
+git commit
+git log
+gitk --all
+git diff
