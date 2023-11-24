@@ -1,7 +1,20 @@
+
 GIT PARANCSOK 
+=======
+GIT PARANCSOK
+
+
 git commit --help
 git init
 git clone https://github.com/bmeaut/snippets.git
 git status
 git add egyfajl.txt
 git add .
+
+
+git commit -m "Üzenet"
+git commit
+git log
+gitk --all
+git diff
+
